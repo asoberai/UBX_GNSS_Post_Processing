@@ -135,5 +135,3 @@ python3 ubx2rinex.py /path/to/ubx_dir \
 - [u-blox Documentation](https://www.u-blox.com/en/docs)
 
 ---
-
-For further help, open an issue or contact the maintainer. 
